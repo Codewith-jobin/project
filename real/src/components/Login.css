@@ -1,0 +1,20 @@
+#loginform{
+    background-color: antiquewhite;
+
+}
+#head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
+    background-color:antiquewhite;
+}
+
+#cent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    width:100%;
+    height: 66vh;
+}
