@@ -100,7 +100,11 @@ function Home() {
           <button>Tomorrow</button>
         </div>
         <div className='posts'>
-          <div className='post'><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprofoto.com%2Fint%2Fprofoto-stories%2Falbert-watson-steve-jobs&psig=AOvVaw0w0XkzTWXvlQMuEDTmicS-&ust=1721798348695000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKif_NW0vIcDFQAAAAAdAAAAABAE" alt="no image" srcset="noo"   /></div>
+          <div className='post'></div>
+          <div className='post'></div>
+          <div className='post'></div>
+          <div className='post'></div>
+
         </div>
       </div>
       <div className='sidebar'>
